@@ -6,6 +6,9 @@ image:
   command: []
   tag: "latest"
 
+postgres:
+  enabled: false
+
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
